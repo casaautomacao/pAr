@@ -1,26 +1,3 @@
-///////////////////
-////       FASE 1
-///////////////////
-
-
-// transição de telas, testar montagem dos IPs para teste.
-// fazer um stress test
-// montar o modelo de negócio 
-// listar preços.
-
-
-///////////////////
-////       FASE 2
-///////////////////
-
-// 0,5 segundos liga os 2 ao iniciar
-// temporizar acionamentos
-
-// realimentar comando e libarar novo apenas após o sucesso
-// considerar porta ainda no envio
-
-// trazer a detecção de conexão e resetar caso não tenha
-// memorizar status das saídas e sempre usar ao religar
 
 
 extern "C" {
